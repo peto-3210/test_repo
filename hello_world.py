@@ -1,2 +1,2 @@
 print("Hello world!")
-print("Hello from feature_local1")
+print("Hello from feature_local2")
